@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-/*
+
 int main(){
 	int n=10;
 	while (n>0){
@@ -8,9 +8,9 @@ int main(){
 		n=n-1;
 	}
 }
-*/
 
-/*
+
+
 int main(){
 	int a =10;
 	while (a>0){
@@ -18,10 +18,10 @@ int main(){
 		printf("%d\n",a);
 	}
 }
-*/
 
 
-/*
+
+
 int main(){
 	int i=0;
 	while (i<5){
@@ -30,11 +30,11 @@ int main(){
 	}
 	return 0;
 }
-*/
 
-//print infinity infinite times
 
-/*
+/print infinity infinite times
+
+
 int main(){
 	int gfg1=1;
 	int gfg2=1;
@@ -46,12 +46,12 @@ int main(){
 	return 0;
 	}
 
-*/
 
 
-//write a c program to print multiplication table
 
-/*
+write a c program to print multiplication table
+
+
 
 int main(){
 	int a,i=1;
@@ -63,7 +63,7 @@ int main(){
 	return 0;
 }
 
-*/
+
 
 
 
