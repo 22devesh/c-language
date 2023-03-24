@@ -1,6 +1,6 @@
 //write a c program to take input from user using scanf and print the value in array 
 
-/*
+
 #include<stdio.h>
 int main(){
 	int a[5];
@@ -13,11 +13,11 @@ int main(){
 		printf("%d ",a[i]);
 	}
 }
-*/
+
 
 //write a program to find the total sum of array
 
-/*
+
 #include<stdio.h>
 int main(){
 	int arr[]={1,2,3,4,5};
@@ -34,14 +34,14 @@ printf("enter the array values\n");
 	printf("Sum of all elements of an array: %d",sum);
 	return 0;	
 }
-*/
+
 
 
 
 //consider a array a1 which consists of 5 elements scan the value for arrayn  and write  
 //a modify function to modify a value
 
-/*
+
 #include<stdio.h>
 int main(){
 	int a[5],i;
@@ -60,12 +60,12 @@ void modify(int b[]){
 		printf("%d ",b[i]);
 	}
 }
-*/
+
 
 //consider an array with no of elements as 8 get the input from user for array.
 //Define a function which display only the even indec value.
 
-/*
+
 #include<stdio.h>
 int main(){
 	int a[8],j;
@@ -77,7 +77,7 @@ int main(){
 	for(i=0;i<5;i++){
 	}
 }
-*/
+
 
 #include<stdio.h>
 int main(){
